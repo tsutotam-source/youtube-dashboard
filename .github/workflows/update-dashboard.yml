@@ -3,9 +3,10 @@ name: Update YouTube dashboard
 on:
   workflow_dispatch:
   schedule:
-    # 毎日4:05（日本時間）に実行
-    - cron: "5 19 * * *"
-
+    # 毎日4:37（日本時間）に実行
+    - cron: "37 4 * * *"
+      timezone: "Asia/Tokyo"
+      
 permissions:
   contents: write
 
