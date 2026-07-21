@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-07-20T10:46:52.029915+00:00",
+  "updatedAt": "2026-07-21T11:28:02.574010+00:00",
   "channelCount": 2,
   "videos": [
+    {
+      "videoId": "pNR3tLgmLoE",
+      "channel": "Moha-P World News",
+      "channelHandle": "@moha-p",
+      "title": "【インド】首都でゴキブリ人民党と治安部隊が衝突！インド首都大混乱！",
+      "published": "2026-07-21T10:00:14+00:00",
+      "url": "https://www.youtube.com/watch?v=pNR3tLgmLoE",
+      "thumbnail": "https://i.ytimg.com/vi/pNR3tLgmLoE/hqdefault.jpg",
+      "description": "◆ ニコニコチャンネル ◆【TeamモハP note】 #インド #暴動 #zgeneration",
+      "summary": "【概要】インドでゴキブリ人民党が首都で治安部隊と衝突、若者たちの批判が強まり、政府への不満が高まっている。 【重要点】①インドの若者たちが政府への不満を示し、ゴキブリ人民党の活動が増加している。 ②若者たちが教育制度の問題を訴え、政府への批判を強める動きが活発化している。 ③インドの経済成長と大卒人口の増加に伴い、就職難が深刻化している。 【結論】インドの若者たちが政府への不満を示し、ゴキブリ人民党の活動が増加している。",
+      "keyPoints": [
+        "インドの若者たちが政府への不満を示し、ゴキブリ人民党の活動が増加している。",
+        "若者たちが教育制度の問題を訴え、政府への批判を強める動きが活発化している。",
+        "インドの経済成長と大卒人口の増加に伴い、就職難が深刻化している。"
+      ],
+      "conclusion": "インドの若者たちが政府への不満を示し、ゴキブリ人民党の活動が増加している。",
+      "priority": "medium",
+      "tags": [
+        "資産管理"
+      ],
+      "summarySource": "local_ai_ollama",
+      "summaryVersion": 2,
+      "summaryModel": "qwen3:1.7b",
+      "transcriptStatus": "ok",
+      "durationMinutes": null
+    },
+    {
+      "videoId": "Nc28C8JAegI",
+      "channel": "海外Yパパラジオ 世界を読み解く",
+      "channelHandle": "@neko_Ypapa",
+      "title": "【僕の引っ越し先】国家という名の企業。シンガポールについて語ります",
+      "published": "2026-07-20T21:44:13+00:00",
+      "url": "https://www.youtube.com/watch?v=Nc28C8JAegI",
+      "thumbnail": "https://i.ytimg.com/vi/Nc28C8JAegI/hqdefault.jpg",
+      "description": "1990年、日本人の給料はシンガポール人の2倍――それが今では、逆に3倍近い差をつけられています。 なぜ、東京23区ほどの資源ゼロの小島が、この30年でGDPを15倍にできたのか。 答えの鍵は、この国の正体が「国」ではなく「会社」だという点にあります。決めてから走りながら直す意思決定の速さ、稼げる外国人だけを選ぶ制度設計、そして60年続く一党支配の仕組みまで、フェアに解剖します。 この動画では、 シンガポールの何がすごいのか 外国人から見た裏側のコスト なぜこの国だけこれができるのか という3つの柱を、日本が本当に見習うべきものは何かという視点も交えながら具体的に解説します。 チャンネル登録・高評価もよろしくお願いします。 #シンガポール #経済成長 #競争的権威主義 #海外移住 #日本の政治",
+      "summary": "【概要】シンガポールは経済力と効率性を両立し、独裁国家でも高い成長を維持している。 【重要点】①1人当たりGDPは世界1位で、1990年には日本より高く、2010年以降は再び上昇。 ②Justification: 1990年GDPは日本より2倍、2010年以降は再び上昇。 ③Justification: 1人当たりGDPは世界1位。 【結論】シンガポールは独裁国家でも経済成長を維持し、選挙でヘッドを変えるシステムが成功している。",
+      "keyPoints": [
+        "1人当たりGDPは世界1位で、1990年には日本より高く、2010年以降は再び上昇。",
+        "Justification: 1990年GDPは日本より2倍、2010年以降は再び上昇。",
+        "Justification: 1人当たりGDPは世界1位。"
+      ],
+      "conclusion": "シンガポールは独裁国家でも経済成長を維持し、選挙でヘッドを変えるシステムが成功している。",
+      "priority": "high",
+      "tags": [
+        "AI",
+        "資産管理",
+        "国際情勢"
+      ],
+      "summarySource": "local_ai_ollama",
+      "summaryVersion": 2,
+      "summaryModel": "qwen3:1.7b",
+      "transcriptStatus": "ok",
+      "durationMinutes": null
+    },
     {
       "videoId": "DF1D8NEeK8c",
       "channel": "Moha-P World News",
@@ -262,30 +316,6 @@
       "durationMinutes": null
     },
     {
-      "videoId": "zXbT9G0kkDE",
-      "channel": "海外Yパパラジオ 世界を読み解く",
-      "channelHandle": "@neko_Ypapa",
-      "title": "【AIやや上級】AIで並行世界を作って実世界で殴り合う。僕がやってるモンテカルロ的な戦い方について説明",
-      "published": "2026-07-15T21:10:04+00:00",
-      "url": "https://www.youtube.com/watch?v=zXbT9G0kkDE",
-      "thumbnail": "https://i.ytimg.com/vi/zXbT9G0kkDE/hqdefault.jpg",
-      "description": "サイコロは一回振ったら振り直せない――交渉も、もめごとも、大事なプレゼンも、現実の本番はいつも一発勝負です。 では、その一回に、どうすれば勝ちやすくなるのか。 答えは「並行世界」。AIを使えば、現実では一回しか試せない勝負を、裏でこっそり何百回もやり直して、一番筋のいい一手だけ持って帰ってくることができます。かつてはスパコンの世界だったモンテカルロ法の発想が、いま個人の手元に降りてきました。 この動画では、一発勝負に勝つための、 並行世界という考え方 AI同士を100回ディベートさせる使い方 ぶれ（温度）というエンジン という3つの柱を、実際の交渉の体験も交えながら、なるべく噛み砕いて解説します。 チャンネル登録・高評価もよろしくお願いします。 #AI仕事術 #モンテカルロ法 #AI活用 #交渉術 #生成AI",
-      "summary": "サイコロは一回振ったら振り直せない――交渉も、もめごとも、大事なプレゼンも、現実の本番はいつも一発勝負です。 では、その一回に、どうすれば勝ちやすくなるのか。 答えは「並行世界」。AIを使えば、現実では一回しか試せない勝負を、裏でこっそり何百回もやり直して、一番筋のいい一手だけ持って帰ってくることができます。かつてはスパコンの世界だったモンテカルロ法の発想が、いま個人の手元に降りてきました。 この動画では、一発勝負に勝つための、 並行世界という考え方 AI同士を100回ディベートさせる使い方 ぶれ（温度）というエンジン という3つの柱を、実際の交渉の体験も交えながら、なるべく噛み砕いて解説します。 チャンネル登録・高評価もよろしくお願いします。 #AI仕事術 #モンテカルロ法 #AI活用 #交渉術 #生成AI",
-      "keyPoints": [],
-      "conclusion": "",
-      "priority": "high",
-      "tags": [
-        "AI",
-        "資産管理",
-        "国際情勢"
-      ],
-      "summarySource": "description_fallback",
-      "summaryVersion": 0,
-      "summaryModel": "",
-      "transcriptStatus": "unavailable",
-      "durationMinutes": null
-    },
-    {
       "videoId": "vPFcrhs3Bvw",
       "channel": "Moha-P World News",
       "channelHandle": "@moha-p",
@@ -346,28 +376,6 @@
       "tags": [
         "資産管理",
         "国際情勢"
-      ],
-      "summarySource": "description_fallback",
-      "summaryVersion": 0,
-      "summaryModel": "",
-      "transcriptStatus": "unavailable",
-      "durationMinutes": null
-    },
-    {
-      "videoId": "PPNQKx6GrUo",
-      "channel": "Moha-P World News",
-      "channelHandle": "@moha-p",
-      "title": "【インドネシア】株式市場が新興国からフロンティアに格下げ懸念！無料給食は汚職の温床に！インドネシア経済の深い闇",
-      "published": "2026-07-11T10:00:19+00:00",
-      "url": "https://www.youtube.com/watch?v=PPNQKx6GrUo",
-      "thumbnail": "https://i.ytimg.com/vi/PPNQKx6GrUo/hqdefault.jpg",
-      "description": "◆【TeamモハP note】 ◆ ニコニコチャンネル #債券投資 #金融市場 #投資",
-      "summary": "◆【TeamモハP note】 ◆ ニコニコチャンネル #債券投資 #金融市場 #投資",
-      "keyPoints": [],
-      "conclusion": "",
-      "priority": "medium",
-      "tags": [
-        "資産管理"
       ],
       "summarySource": "description_fallback",
       "summaryVersion": 0,
