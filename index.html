@@ -49,20 +49,11 @@
       font-size: 14px;
     }
     main { max-width: 1180px; margin: 22px auto; padding: 0 20px 48px; }
-    .stats {
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 12px;
-      margin-bottom: 18px;
-    }
-    .stat, .toolbar, .video-card {
+.toolbar, .video-card {
       background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 14px;
     }
-    .stat { padding: 17px; }
-    .stat-label { color: var(--muted); font-size: 13px; }
-    .stat-value { font-size: 27px; font-weight: 750; margin-top: 5px; }
 .toolbar {
       display: grid;
       grid-template-columns: 1fr 230px;
@@ -141,7 +132,7 @@
     }
     .error { color: #b91c1c; }
     @media (max-width: 840px) {
-      .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
       .toolbar { grid-template-columns: 1fr; }
       .video-card { grid-template-columns: 1fr; }
       .thumb-link { width: 100%; }
@@ -163,11 +154,6 @@
 </header>
 
 <main>
-  <section class="stats">
-    <div class="stat"><div class="stat-label">登録チャンネル</div><div class="stat-value" id="channelCount">—</div></div>
-    <div class="stat"><div class="stat-label">取得動画</div><div class="stat-value" id="videoCount">—</div></div>
-<div class="stat"><div class="stat-label">合計再生時間</div><div class="stat-value" id="totalMinutes">—</div></div>
-  </section>
 <section class="toolbar">
     <input id="searchBox" type="search" placeholder="タイトル・チャンネル・要約を検索">
     <select id="channelFilter"><option value="">すべてのチャンネル</option></select>
@@ -245,10 +231,6 @@ function escapeHtml(value) {
 
       videos = Array.isArray(data.videos) ? data.videos : [];
 
-      document.getElementById("channelCount").textContent = data.channelCount ?? 0;
-      document.getElementById("videoCount").textContent = videos.length;
-      const total = videos.reduce((sum, v) => sum + Number(v.durationMinutes || 0), 0);
-      document.getElementById("totalMinutes").textContent = total ? `${total}分` : "—";
       document.getElementById("updatedAt").textContent =
         data.updatedAt ? `最終更新: ${formatDate(data.updatedAt)}` : "初回更新前";
 
